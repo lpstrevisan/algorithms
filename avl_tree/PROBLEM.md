@@ -1,4 +1,4 @@
-# Fundamental Theorem of Rotations
+# Teorema Fundamental das Rotações
 
 ## EN
 
