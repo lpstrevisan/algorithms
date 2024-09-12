@@ -9,6 +9,6 @@ In total, there were 6 exercises:
 * Graph (Not yet solved)
 * Dynamic programming (Not yet solved)
 
-All of them are hosted on [iudex.io](https://iudex.io/) where they can be found through the title name of their respective PROBLEM.md
+All of them are hosted on [iudex.io](https://iudex.io/) where they can be found through the title name of their respective README.md
 
 I intend to gradually add the solutions to this repository as I solve them and inform how many test cases have passed.
